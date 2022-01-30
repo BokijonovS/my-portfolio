@@ -271,12 +271,12 @@ section .title::after{
     color:#fff;
     background: #111;
 }
-.services .title::before,
-.teams .title::before{
+.services .title:before,
+.teams .title:before{
     background: #fff;
 }
-.services .title::after,
-.teams .title::after{
+.services .title:after,
+.teams .title:after{
     background: #111;
     content: "what i provide";
 }
