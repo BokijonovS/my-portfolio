@@ -842,3 +842,7 @@ footer span a:hover{
   border-radius: 13px;
 
 }
+#maps-mine{
+    width: 100%;
+    height: 60vh;
+}
